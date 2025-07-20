@@ -2,11 +2,6 @@
 
 # ✅ Career Campion AI
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/career-campion-ai?color=blue\&style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/career-campion-ai?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/your-username/career-campion-ai?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/career-campion-ai?style=social)
-![License](https://img.shields.io/github/license/your-username/career-campion-ai?style=flat-square)
 
 ---
 
