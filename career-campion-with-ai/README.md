@@ -120,20 +120,4 @@ Visit the app at **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)** in your br
 
 ````
 
----
-
-✅ **Next Steps:**
-1. Create **README.md** in your root folder:
-   ```bash
-   notepad README.md
-````
-
-Paste the above content and save.
-2\. Add and push:
-
-```bash
-git add README.md
-git commit -m "Added complete professional README"
-git push
-```
 
